@@ -31,6 +31,6 @@ The network is designed to connect multiple university campuses through a centra
 
 1. **Download** and install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer).
 2. **Clone** this repository or download the `.pkt` file.
-3. **Open** `University_Network_Design.pkt` in Packet Tracer.
+3. **Open** `Project.pkt` in Packet Tracer.
 4. **Test Connectivity**: Use the "Simple PDU" tool or the "Ping" command in the desktop terminal of any PC to verify end-to-end communication across campuses.
 
